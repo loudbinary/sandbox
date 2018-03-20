@@ -1,4 +1,3 @@
-[![GitHub contributors](https://img.shields.io/github/contributors/cdnjs/cdnjs.svg)]()
+[![GitHub contributors](https://img.shields.io/github/contributors/loudbinary/sandbox.svg?longCache=true&style=for-the-badge)](#Contributors)
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors)
 
